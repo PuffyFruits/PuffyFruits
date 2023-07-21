@@ -14,7 +14,7 @@ export const SignIn = (props) => {
         e.preventDefault();
         signInWithEmailAndPassword(auth, email, password)
             .then(() => {
-                navigate('auth');
+                navigate('/auth');
             })
             .catch((error) => {
                 const errorString = error.toString();
