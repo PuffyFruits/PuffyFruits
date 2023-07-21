@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PuffyFruits.github.io/static/css/main.406324ec.css",
-    "main.js": "/PuffyFruits.github.io/static/js/main.b32d1f2c.js",
-    "static/js/787.26be2f6d.chunk.js": "/PuffyFruits.github.io/static/js/787.26be2f6d.chunk.js",
-    "index.html": "/PuffyFruits.github.io/index.html",
-    "main.406324ec.css.map": "/PuffyFruits.github.io/static/css/main.406324ec.css.map",
-    "main.b32d1f2c.js.map": "/PuffyFruits.github.io/static/js/main.b32d1f2c.js.map",
-    "787.26be2f6d.chunk.js.map": "/PuffyFruits.github.io/static/js/787.26be2f6d.chunk.js.map"
+    "main.css": "/PuffyFruits.github.io/PuffyFruits/static/css/main.406324ec.css",
+    "main.js": "/PuffyFruits.github.io/PuffyFruits/static/js/main.4839e38e.js",
+    "static/js/787.26be2f6d.chunk.js": "/PuffyFruits.github.io/PuffyFruits/static/js/787.26be2f6d.chunk.js",
+    "index.html": "/PuffyFruits.github.io/PuffyFruits/index.html",
+    "main.406324ec.css.map": "/PuffyFruits.github.io/PuffyFruits/static/css/main.406324ec.css.map",
+    "main.4839e38e.js.map": "/PuffyFruits.github.io/PuffyFruits/static/js/main.4839e38e.js.map",
+    "787.26be2f6d.chunk.js.map": "/PuffyFruits.github.io/PuffyFruits/static/js/787.26be2f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.406324ec.css",
-    "static/js/main.b32d1f2c.js"
+    "static/js/main.4839e38e.js"
   ]
 }
